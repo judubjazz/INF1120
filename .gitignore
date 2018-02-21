@@ -1,0 +1,14 @@
+# inclu tous les validation du projet
+
+/*
+*.DS_Store
+*.zip
+*META-INF/
+*.idea
+*.class
+*.ctxt
+
+# exclu les suivants.
+
+!Contact/
+!.gitignore
